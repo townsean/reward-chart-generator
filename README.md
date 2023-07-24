@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-The **Reward Chart Generator** is a simple web app can generate custom reward charts meant for tracking daily progress on a goal. 
+The **Reward Chart Generator** is a simple web app that can generate custom reward charts meant for tracking daily progress on a goal. 
 
 The user inputs include:
 * number of days
